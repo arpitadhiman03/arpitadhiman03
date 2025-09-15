@@ -28,3 +28,10 @@ I'm a passionate developer and AI enthusiast with a strong foundation in full-st
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitadhiman03&show_icons=true&locale=en&layout=compact" alt="arpitadhiman03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitadhiman03&show_icons=true&locale=en" alt="arpitadhiman03" /></p>
+
+---
+## 📈 Activity Graph
+
+[![Arpita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arpitadhiman03&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
